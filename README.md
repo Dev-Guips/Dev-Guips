@@ -17,6 +17,6 @@
     
 ## 📊Estatísticas GitHub
 <div>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermePinheiroSantos&layout=compact&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=GuilhermePinheiroSantos&show_icons=true&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Guips&layout=compact&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dev-Guips&show_icons=true&theme=dracula"/>
 </div>             
