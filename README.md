@@ -19,4 +19,6 @@
 <div>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Guips&layout=compact&theme=dracula"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dev-Guips&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Guips&theme=dracula"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-Guips&theme=dracula"/>
 </div>             
