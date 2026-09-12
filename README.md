@@ -1,5 +1,5 @@
 ## 👋Olá eu sou Guilherme Pinheiro dos Santos 
-- *💼**Estagiário em Redes de Computadores***
+- *💼**Estagiário em Redes de Computadores e Desenvolvimento de Software***
 - *👨‍💻 **Programador Back-End***
 - *📚 **Estudante de Ciência da Computação - Faculdade Impacta Tecnologia***
 - *🌱 **Atualmente estou aprendendo Java | Spring Boot** - Programa ONE*
